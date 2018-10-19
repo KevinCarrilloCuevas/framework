@@ -1,3 +1,16 @@
-.col{
-	background: #ccc;
+header{
+	background: url("img/bg-header.jpg");
+	height: 659px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+li{
+	display: inline-block;
+}	
+li a{
+	color: white;
+	padding: 0 15px;
+}
+.mover{
+margin-left: -55px;
 }
